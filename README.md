@@ -1,2 +1,2 @@
-I like deep neural nets & applied maths! 
-GPUs are hot I guess.
+CSE Student | Building open-source Math curriculum for LLMs 
+& Transformers | Deep Learning · RL · Applied Math
