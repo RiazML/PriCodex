@@ -1,42 +1,13 @@
-# 👋 Hi, I'm MD. Reaz Uddin
+# Hi, I'm MD. Reaz Uddin 👋
 
-🎓 CSE Student  
-🧠 Building an **open-source Math Curriculum for LLMs & Transformers**  
-🚀 Interested in **Deep Learning · Reinforcement Learning · Applied Mathematics**
+CSE Student building an **open-source math curriculum for LLMs and Transformers**.
 
----
+I'm interested in the mathematical foundations behind modern AI — especially:
 
-## 📚 Mission
+- Deep Learning  
+- Reinforcement Learning  
+- Applied Mathematics for AI  
 
-I am building an **open-source mathematical foundation for AI** — helping students and developers understand the math behind:
+My goal is to make the **math behind AI easier to learn and more accessible** for students and builders.
 
-- Large Language Models (LLMs)
-- Transformers
-- Deep Learning
-- Reinforcement Learning
-- Optimization & Linear Algebra
-- Probability for Machine Learning
-
-The goal is to make **AI math intuitive, structured, and accessible**.
-
----
-
-## 🔬 Areas of Interest
-
-- 🤖 Deep Learning
-- 🧩 Transformers & LLM Architecture
-- 📈 Applied Mathematics for AI
-- 🎯 Reinforcement Learning
-- ⚡ Efficient AI systems
-
----
-
-## 🌍 Open Source Vision
-
-Create a **community-driven AI math curriculum** that anyone can use to learn the mathematical foundations of modern AI systems.
-
-If you are interested in **AI, math, or LLMs**, contributions and suggestions are always welcome!
-
----
-
-⭐ If you find the project useful, consider **starring the repository**.
+If you’re interested in **AI, math, or LLMs**, feel free to explore the project or share suggestions.
