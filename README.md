@@ -1,5 +1,3 @@
-CSE Student building an **open-source math curriculum for LLMs and Transformers**.
-
 I'm interested in the mathematical foundations behind modern AI — especially:
 
 - Deep Learning  
