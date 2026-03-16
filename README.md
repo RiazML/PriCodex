@@ -1,8 +1,3 @@
-I'm interested in the mathematical foundations behind modern AI — especially:
+The Reward Hypothesis:  All of what we mean by goals and purposes can be well thought of as the maximization of the expected value of the cumulative sum of a received scalar signal (called reward).
 
-- Deep Learning  
-- Reinforcement Learning  
-- Applied Mathematics for AI  
-
-My goal is to make the **math behind AI easier to learn and more accessible** for students and builders.
-If you’re interested in **AI, math, or LLMs**, feel free to explore the project or share suggestions.
+— Sutton & Barto (2018)
